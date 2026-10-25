@@ -1,16 +1,18 @@
 <div align="center">
 
-# 👋 Hey, I'm Ahmed Baruwa
+# 👋 Hi, I'm Ahmed Baruwa
 
 ### Building intelligent systems at the intersection of **AI, data, and backend engineering**.
 
-*From production systems at Microsoft to applied AI work at Scale AI ---<br>
-I like turning complex problems into practical, measurable solutions.*
+<p>
+  <em>From production systems at Microsoft to applied AI work at Scale AI —<br>
+  I turn complex, ambiguous challenges into reliable, measurable solutions.</em>
+</p>
 
 <p>
-  <a href="https://aobaruwa.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://aobaruwa.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit_aobaruwa.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/ahmedbaruwa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:aobaruwa@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:aobaruwa@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=aobaruwa&style=flat-square&color=blueviolet)
@@ -19,31 +21,34 @@ I like turning complex problems into practical, measurable solutions.*
 
 ---
 
-## 🚀 A little about me
+## 🧭 At a Glance
 
-I'm a software engineer and data/ML practitioner with experience across **Microsoft, Scale AI, KPMG, and Interswitch**. My work spans production backend systems, machine learning, data pipelines, security analytics, and LLM-powered automation.
+I’m a software engineer and ML practitioner with a foundational background across **Microsoft, Scale AI, KPMG, and Interswitch**. My work spans scalable backend architecture, production machine learning systems, security analytics, and LLM-driven automation.
 
-- 🤖 **Applied AI:** LLM agents, reinforcement learning from human feedback (RLHF), NLP, and model evaluation.
-- 🧠 **Machine learning:** Graph neural networks, anomaly detection, clustering, and deep learning.
-- ⚙️ **Backend & systems:** Automation, APIs, distributed systems, CI/CD, and cloud-based services.
-- 📊 **Data engineering:** ETL pipelines, SQL analytics, and turning noisy data into useful signals.
-- 🎓 **Education:** M.S. in Computer Science, University of Oregon.
-- 🌎 **Based in:** Vancouver, Canada.
+> **Core Philosophy:** Build software that is useful, measurable, and remarkably reliable.
 
-> **My engineering philosophy:** make it useful, make it measurable, and make it reliable.
+<br>
 
-## 🛠️ Tech stack
+| Domain | Focus Areas & Expertise |
+| :--- | :--- |
+| **🤖 Applied AI** | LLM agents, reinforcement learning from human feedback (RLHF), NLP, and model evaluation |
+| **🧠 Machine Learning** | Graph neural networks, anomaly detection, clustering, and deep learning architectures |
+| **⚙️ Backend & Systems** | High-performance automation, resilient APIs, distributed systems, CI/CD pipelines |
+| **📊 Data Engineering** | Robust ETL pipelines, advanced SQL analytics, and transforming noisy data into signals |
+| **🎓 Background** | M.S. in Computer Science — University of Oregon &nbsp;&#124;&nbsp; 🌎 Based in Vancouver, Canada |
+
+---
+
+## 🛠️ Craft & Tech Stack
 
 ### Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell%20%2F%20Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### AI & machine learning
-
+### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
@@ -51,8 +56,7 @@ I'm a software engineer and data/ML practitioner with experience across **Micros
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-2E8B57?style=flat-square)
 ![Graph Neural Networks](https://img.shields.io/badge/Graph%20Neural%20Networks-008B8B?style=flat-square)
 
-### Cloud, data & engineering
-
+### Cloud, Data & Infrastructure
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -62,52 +66,55 @@ I'm a software engineer and data/ML practitioner with experience across **Micros
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square)
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-34495E?style=flat-square)
 
-## 💡 Selected engineering impact
+---
 
-| 🚧 What I worked on | 📈 What changed |
+## 📈 Selected Engineering Impact
+
+| Initiative | Measurable Outcome |
 | :--- | :--- |
-| LLM-powered schema update agent | Cut pull-request turnaround from **about one week to 15 minutes** across 4 databases |
-| Azure Data Explorer automation | Migrated **50 KQL functions across 3 production clusters** |
-| Graph neural network threat detection | Analyzed **290K+ Azure database log records** and achieved **97% accuracy** |
-| RLHF chatbot quality improvements | Reduced prompt-resolution turns by **50%** |
-| PyTorch 3D scan annotation | Built a pipeline processing **100 scans per minute** |
-| Anomaly detection | Reduced false positives by **35%** |
+| **LLM-Powered Schema Update Agent** | Cut pull-request turnaround time from **~1 week down to 15 minutes** across 4 databases |
+| **Azure Data Explorer Automation** | Successfully migrated **50 KQL functions across 3 production clusters** |
+| **Graph Neural Network Threat Detection** | Analyzed **290K+ Azure database log records** with **97% accuracy** |
+| **RLHF Chatbot Quality Optimization** | Reduced prompt-resolution turns by **50%** |
+| **PyTorch 3D Scan Annotation Pipeline** | Built a high-throughput processing pipeline handling **100 scans/minute** |
+| **Security Anomaly Detection System** | Reduced false-positive alerts by **35%** |
 
-## 🔬 Things I enjoy building
+---
 
-- 🧩 **AI agents that do real work** --- reliable workflows, automation, and intelligent developer tools.
-- 🔍 **ML for security and anomaly detection** --- finding meaningful patterns in high-volume data.
-- 🗣️ **Language and multimodal AI** --- systems that understand, reason, and help people get things done.
-- 🏗️ **Scalable backend infrastructure** --- clean interfaces, dependable services, and measurable performance.
+## 🔬 Design & Engineering Interests
 
-## 📌 Featured projects
+- 🧩 **Agentic Workflows:** Designing autonomous systems that handle complex multi-step tasks reliably.
+- 🔍 **Security & Anomaly Analytics:** Surface high-signal anomalies out of immense noisy volumes of data.
+- 🗣️ **Multimodal Systems:** Bridging the gap between human intent and machine execution via LLMs and speech.
+- 🏗️ **Robust Architecture:** Eradicating friction in developer tooling and distributed services.
 
-Check out my repositories for experiments and projects in language models, reinforcement learning, and applied machine learning.
+---
 
-- **GPT-2 compression** --- exploring distillation, pruning, and quantization to reduce a model from roughly **400 MB to 120 MB**.
-- **Atari DQN agent** --- reinforcement learning experiments with Python, PyTorch, and OpenAI Gym.
+## 📌 Featured Work & Experiments
 
-> Project links can be added here as repositories are pinned or made public.
+- **GPT-2 Model Compression:** Investigating distillation, pruning, and quantization strategies to shrink footprint from ~400MB to 120MB.
+- **Atari DQN Agent:** Deep reinforcement learning experiments built with PyTorch, OpenAI Gym, and clean modular code structures.
 
-## 📊 GitHub at a glance
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=aobaruwa&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aobaruwa&layout=compact&hide_border=true" alt="Top languages">
-  <br>
+  <br><br>
   <img src="https://streak-stats.demolab.com?user=aobaruwa&hide_border=true" alt="GitHub streak">
 </div>
 
 ---
 
-## 🤝 Let's connect
-
-Have an interesting problem in **AI, machine learning, data, or backend systems**? I'd love to hear about it.
-
-- 🌐 Portfolio: [aobaruwa.github.io](https://aobaruwa.github.io)
-- 💼 LinkedIn: [linkedin.com/in/ahmedbaruwa](https://www.linkedin.com/in/ahmedbaruwa)
-- 📬 Email: aobaruwa@gmail.com
-
 <div align="center">
-  <strong>Thanks for stopping by --- keep building things that matter.</strong> ✨
+
+### Let's build something impactful together.
+
+[🌐 Portfolio](https://aobaruwa.github.io) &nbsp;&bull;&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/ahmedbaruwa) &nbsp;&bull;&nbsp; [📬 Email](mailto:aobaruwa@gmail.com)
+
+<br>
+<sub>*Thanks for stopping by — keep building things that matter.* ✨</sub>
+
 </div>
